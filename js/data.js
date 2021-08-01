@@ -3,7 +3,7 @@ let students=
     {
         "name": "杨鹏飞",
         "school": "上海交通大学",
-        "city": "上海",
+        "city": "徐仁区",
         "province": "上海"
     },
     {
@@ -33,7 +33,7 @@ let students=
     {
         "name": "崔宇帆",
         "school": "同济大学",
-        "city": "上海",
+        "city": "洋浦区",
         "province": "上海"
     },
     {
@@ -195,7 +195,7 @@ let students=
     {
         "name": "张钊溢",
         "school": "华东理工大学",
-        "city": "上海",
+        "city": "徐仁区",
         "province": "上海"
     },
     {
@@ -279,7 +279,7 @@ let students=
     {
         "name": "彭鹤锦",
         "school": "上海理工大学",
-        "city": "上海",
+        "city": "洋浦区",
         "province": "上海"
     },
     {
