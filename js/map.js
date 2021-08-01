@@ -159,7 +159,6 @@ function formatter() {
             <div class="name">{{name}}:</div>
             <div class="value">{{value}}人</div>
         </div>
-        {% if name !== '浙江' %}
         <div class="list">
             {% for p in people %}
             <div class="pinfo">
@@ -169,7 +168,6 @@ function formatter() {
             </div>
             {% endfor %}
         </div>
-        {% endif %}
     </div>
     `;
 
