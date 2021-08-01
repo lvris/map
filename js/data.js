@@ -15,7 +15,7 @@ let students=
     {
         "name": "卢智豪",
         "school": "北京航空航天大学",
-        "city": "海淀",
+        "city": "海淀区",
         "province": "北京"
     },
     {
@@ -75,7 +75,7 @@ let students=
     {
         "name": "宋穆萱",
         "school": "北京师范大学",
-        "city": "海淀",
+        "city": "海淀区",
         "province": "北京"
     },
     {
@@ -87,7 +87,7 @@ let students=
     {
         "name": "王烯靖",
         "school": "北京邮电大学",
-        "city": "海淀",
+        "city": "海淀区",
         "province": "北京"
     },
     {
@@ -123,7 +123,7 @@ let students=
     {
         "name": "曹暄",
         "school": "天津大学",
-        "city": "南开",
+        "city": "南开区",
         "province": "天津"
     },
     {
@@ -135,7 +135,7 @@ let students=
     {
         "name": "许子皓",
         "school": "天津大学",
-        "city": "南开",
+        "city": "南开区",
         "province": "天津"
     },
     {
@@ -147,7 +147,7 @@ let students=
     {
         "name": "赵蔚然",
         "school": "天津医科大学",
-        "city": "和平",
+        "city": "和平区",
         "province": "天津"
     },
     {
@@ -165,7 +165,7 @@ let students=
     {
         "name": "李劲达",
         "school": "北京交通大学",
-        "city": "海淀",
+        "city": "海淀区",
         "province": "北京"
     },
     {
@@ -201,7 +201,7 @@ let students=
     {
         "name": "张壹萱",
         "school": "首都师范大学",
-        "city": "海淀",
+        "city": "海淀区",
         "province": "北京"
     },
     {
